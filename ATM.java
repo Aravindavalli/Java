@@ -7,7 +7,7 @@ public class ATM
         int a,a1,b,b1,c,c1,d,d1,x;
         System.out.println("Enter the 1st Denomination:");
         a=s.nextInt();
-        System.out.println("Enter the 1st Denomination number of notes");
+        System.out.println("Enter the 1st Denomination number of notes ----");
         a1=s.nextInt();
         System.out.println("Enter the 2nd Denomination:");
         b=s.nextInt();
